@@ -1,0 +1,7 @@
+SELECT DISTINCT (9) TOP (11) , (8)
+FROM (1)
+full/L/R (4) outer JOIN (2) ON (3)
+WHERE (5)
+GROUP BY (6)
+HAVING (7)
+ORDER BY (10)
